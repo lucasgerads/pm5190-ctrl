@@ -1,0 +1,10 @@
+[project]
+name = "pm5190-ctrl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pyserial>=3.5",
+    "textual>=8.2.4",
+]
